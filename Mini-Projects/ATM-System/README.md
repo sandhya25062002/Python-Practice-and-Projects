@@ -1,16 +1,21 @@
-## Python ATM System
+#  Python ATM System
 
 ## Description
-This is a simple ATM system project built in Python to practice conditional statements (if, elif, else) and loops (while). The program allows a user to log in and perform basic ATM operations.
+This is a simple ATM system project built in Python to practice conditional statements (if, elif, else) and loops (while).
+The program allows a user to log in and perform basic ATM operations.
 
 ## Features
-User login authentication View account balance Deposit money Withdraw money with balance check Exit option Invalid input handling
+- Login authentication
+- View balance
+- Deposit money
+- Withdraw money
+- Exit option
 
 ## Concepts Used
-if / elif / else
-while loop
-user input
-variables
+- if / elif / else
+- while loop
+- user input
+- variables
 
 ## Run Program
 python atm.py
