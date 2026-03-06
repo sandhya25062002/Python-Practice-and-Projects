@@ -19,5 +19,4 @@ The program gives hints like "Too High" or "Too Low" until the correct number is
 3. Follow the hints (Too High / Too Low)
 4. Guess the correct number to win
 
-## Technologies
-- Python
+
